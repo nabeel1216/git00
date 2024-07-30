@@ -1,2 +1,2 @@
 FROM ubuntu/nginx 
-ADD . /var/www/html
+ADD . /var/www/html/index.html
